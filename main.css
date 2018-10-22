@@ -1,11 +1,11 @@
-.register {
+.forms {
   max-width: 300px;
   margin: 10px auto;
   padding: 10px 20px;
   background: #f4f7f8;
   border-radius: 8px; }
 
-.register input[type="username"],
+.forms input[type="username"],
 input[type="password"],
 input[type="email"] {
   background: rgba(255, 255, 255, 0.1);
